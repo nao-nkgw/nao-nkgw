@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nao-nkgw&theme=discord_old_burple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
