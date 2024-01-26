@@ -4,7 +4,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nao-nkgw&layout=compact&count_private=true&show_icons=true&theme=vue" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nao-nkgw&count_private=true&show_icons=true&show_icons=true&theme=vue" />
 </p>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=nao-nkgw&color=green)
 
 
 
